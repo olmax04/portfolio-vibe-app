@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Onest } from "next/font/google";
 import "./globals.css";
+// Onest font configuration
 
 const onest = Onest({
   subsets: ["latin", "cyrillic"],
