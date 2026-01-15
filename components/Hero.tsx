@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { FaGithub, FaLinkedin, FaArrowDown } from "react-icons/fa";
+// Hero section with animated background
 
 export default function Hero() {
   const [isVisible, setIsVisible] = useState(false);
