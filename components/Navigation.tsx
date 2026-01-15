@@ -36,6 +36,7 @@ export default function Navigation() {
           <div className="text-xl font-bold text-white">
             <span className="text-blue-400">M</span>aks
           </div>
+          {/* Navigation component with smooth scrolling */}
 
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-8">
