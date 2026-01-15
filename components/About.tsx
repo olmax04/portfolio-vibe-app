@@ -1,3 +1,4 @@
+// About section component
 export default function About() {
   return (
     <section
